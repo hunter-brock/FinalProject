@@ -1,7 +1,7 @@
 # FinalProject
 
 #### Project Description
-  This project will use the public API for the game Halo 5 Guardians to compare and analyze player stats. This data can be used to see which maps and/or gametypes the players perform best on, their favorite weapons, how they compare to each other and possibly determine what kind of role the player would have on a competitive team.
+  This project will use the public API for the game Halo 5 Guardians to compare and analyze player stats. This data can be used to see which gametypes the players perform best on, how they compare to each other in various stats, and can use various data like power weapon grabs and assists to help determine playstyle.
 
 This standard python project will have:
 
